@@ -1,0 +1,144 @@
+Question-1
+
+It is a Function which returns another function and that function is going to be a inner function of the outside
+function.
+Outside function is ging to return the inner function.
+Inside function is going to access the variables of outside function.
+Inner function maintains the state between successive function calls.
+Closures are used to create stand alone isolated entities.
+
+Example:
+
+Function outerfunction(a)
+{
+Let a=100;
+Return function innerfunction (b)
+{
+Let b=200;
+Return a+b;
+}
+Console.log(outer function(100)(200));
+
+Question-2
+
+Shallow copy:
+Shallow copy is a bit wise copy of an object, a new object is created that has an exact copy of the values in the
+original object. If any of the fields of the object are references to other objects then the reference address are
+copied
+
+Example:
+
+Var employee = {
+Eid : ”102”
+Ename : “Arjun”
+Eaddress : “Hyderabad”
+}
+Console.log(“Employee=>”,employee);
+Var newEmployee = employee;
+Console.log(“newEmployee=>”,newEmployee);
+newEmployee.ename = “Chandra”;
+Console.log(“Employee=>”,employee);
+Console.log(“newEmployee=>”,newEmployee);
+
+Deep copy:
+A deep copy copies all the fields and makes copies of dynamically allocated memory pointed to by the fields. A deep copy
+occurs when an object is copied along with the objects it refers to.
+
+Example:
+
+Let copiedobj = JSON.parse(JSON.stringify(empobj));
+console.log(empobj);
+console.log(copiedobj);
+copiedobj.firstName = “Arjun”;
+console.log(empobj);
+console.log(copiedobj);
+
+
+Question-3
+
+Object destructuring is used for extracting values from an object property and assigning them to another variable.
+The Object destructuring is also possible for Arrays.
+
+Example:
+Let empObj = {
+firstName : “Arjun”
+lastName : “Chandra”
+};
+Let { firstName : fName, lastName : lName } = empObj;
+Console.log(fName);
+Console.log(lName);
+
+Question-4
+
+Arrow function reduces lots of code and makes the code more readable.
+Arrow function syntax automatically binds “this” to the surrounding code.
+Writing the arrow => is more flexible as compared with the writing function keyword.
+
+Example:
+
+Let checkNumber =(num) => num > 10?
+Console.log(“yes”) : console.log(“no”);
+checkNumber (5);
+
+Question-5
+
+A Higher order function is a function that receives a function as an argument and returns the function as output.
+
+Example:
+Function calculate (numbers)
+{
+Let sum = 0;
+For (const number of numbers)
+Sum = sum + number;
+{
+Return sum ;
+}
+Calculate (1,2,3);
+
+Question-6
+When a function is waiting in stack memory and in the heap memory is connected to stack memory and it is connected to
+event queue and in that the function is awaiting
+
+
+Question-7
+
+Building blocks of an Angular are
+Modules, Components, Templates, Metadata, Data binding, Directives, Services, Dependency Injection
+
+Question-8
+
+Advantages of using Angular:
+
+It is used in large scale and used to build single page applications.
+Code is more understandable.
+It helps to deal with pagination, formatting and reversing a text
+Angular contains lot of different solutions such as routing modules etc
+Angular allows to write and test module code separately from the rest of an app, as a result, only some parts of apps
+and services will be tested.
+Dependency injection will help us manage back end and web apps become more faster and stable.
+Angular makes it easier to build large and complex applications .
+It is an open source
+It has two way data binding between model and views or html.
+
+Question-9
+
+A single page application is an application that allows us to work inside a browser and does not require reloading the
+page.
+Single page application continuously interacts with the user by rewriting the current page rather than loading entire
+new page from server.
+Advantages:
+It is fast and responsive
+It has high performance and stability
+It is mobile friendly
+Pass information to a component using a parameter.
+
+
+Question-10
+
+Data binding is the mechanism that binds the application user interface to modules, using data binding, user will be
+able to manipulate the elements present on the website.
+Types of data binding:
+One way data binding  in one way data binding, data flows only in one direction that is from models to views.
+One way data binding is of 3 types Interpolation, property binding and event binding.
+Two way data binding  in two way data binding, it will allow to share data in two directions that is from component to
+template and from template to component.

@@ -1,0 +1,25 @@
+<!-- Example for ngStyle -->
+<h1 class="bg-primary">Welcome to {{title}}</h1>
+<div [ngStyle]="{'color':colorVal, 'background-color':bgColorVal}">
+    SNAD Developers
+</div>
+
+<a [ngStyle]="{'color':colorVal, 'background-color':bgColorVal}" href="#">
+    SNAD Developers
+</a>
+
+<router-outlet></router-outlet>
+
+<!-- Example for ngClass -->
+
+<h1 class="bg-primary">Welcome to {{name}}</h1>
+
+<div [ngClass]="[clsName, clsName2]">
+    SNAD Developers
+</div>
+<div [ngClass]="{'one':false, 'two':true}">
+    SNAD Developers
+
+</div>
+
+<router-outlet></router-outlet>

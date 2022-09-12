@@ -1,0 +1,24 @@
+<p>services works!</p>
+
+<h1 class="c1">{{title}}</h1>
+
+<div *ngif="success_msg; then update_msg; else error_msg" style="background-color: blue;"></div>
+
+<ng-template #updated_msg>
+    Use is updated
+</ng-template>
+
+<ng-template #error_msg>
+    User was not added
+</ng-template>
+
+<router-outlet></router-outlet>
+
+<div [ngSwitch]="optionValue">
+    <div *ngSwitchCase="1">output - 1</div>
+    <div *ngSwitchCase="2">output - 2</div>
+    <div *ngSwitchCase="3">output - 3</div>
+    <div *ngSwitchCase="4">output - 4</div>
+    <div *ngSwitchDefault>Invalid Choice</div>
+</div>
+<router-outlet></router-outlet>

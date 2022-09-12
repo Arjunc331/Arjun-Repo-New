@@ -1,0 +1,5 @@
+D:\Snadproject\Graduate-Trainee-s-Lab-Work\Arjun\Exam-2\CsharpTest\CsharpTest\obj\Debug\net6.0\CsharpTest.csproj.AssemblyReference.cache
+D:\Snadproject\Graduate-Trainee-s-Lab-Work\Arjun\Exam-2\CsharpTest\CsharpTest\obj\Debug\net6.0\CsharpTest.GeneratedMSBuildEditorConfig.editorconfig
+D:\Snadproject\Graduate-Trainee-s-Lab-Work\Arjun\Exam-2\CsharpTest\CsharpTest\obj\Debug\net6.0\CsharpTest.AssemblyInfoInputs.cache
+D:\Snadproject\Graduate-Trainee-s-Lab-Work\Arjun\Exam-2\CsharpTest\CsharpTest\obj\Debug\net6.0\CsharpTest.AssemblyInfo.cs
+D:\Snadproject\Graduate-Trainee-s-Lab-Work\Arjun\Exam-2\CsharpTest\CsharpTest\obj\Debug\net6.0\CsharpTest.csproj.CoreCompileInputs.cache
