@@ -1,0 +1,47 @@
+﻿
+
+Question 1 :
+
+    Call by Value 
+
+    when we call the method of any class by using object, the value of parameter in main method will directly copy to the class method to parameter value.
+    The objects are called by value as Default, as a result whether it is a primitive data types or reference data types
+    they are by default going to be called by value.
+
+
+    Call by Reference
+    
+    Here, when we call the method, the reference address of variable is passed to the method.
+    If some changes occurs in values within the method that changes occurs in actual variable, to specify this parameter we use ref Keyword at the time of declaring as well as the calling method.
+
+
+Question 6 :
+
+Abstract Class:
+
+Abstract class can have abstract and non abstract methods.
+Abstract class does not support multiple inheritance.
+Abstract class can have final, non-final, static and non-static variables.
+Abstract class can provide the implementation of the interface.
+
+Interface:
+
+Interface have only abstract methods, and it have default and static methods also.
+Interface supports multiple inheritance.
+Interface has only static and final variables.
+Interface cant provide the implementation of abstract class.
+
+
+Question 7 :
+
+Method Overloading :
+
+    Method overloading is to have multiple methods within the same class with the same name, but with different parameters.
+    Each of these methods behave differently based on what is passed in it.
+
+
+Method Overriding :
+
+    Method overriding is the ability to redefine the implementation of a method in a class that inherits from a parent class. When a method is overridden, the name and the parameters stay the same,
+    but the implementation that gets called depends on the type of the object that is calling it.
+    Method overriding is determined at runtime and is dynamic.
