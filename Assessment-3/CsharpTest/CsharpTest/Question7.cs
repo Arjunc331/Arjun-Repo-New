@@ -1,9 +1,7 @@
 ﻿
 Method Overloading :
 
-    Method overloading is to have multiple methods within the same class with the same name, but with different parameters.
-    Each of these methods behave differently based on what is passed in it.
-
+   
     Example:
 
     namespace CsharpTest
@@ -34,6 +32,32 @@ Method Overloading :
 
 Method Overriding :
 
-    Method overriding is the ability to redefine the implementation of a method in a class that inherits from a parent class. When a method is overridden, the name and the parameters stay the same,
-    but the implementation that gets called depends on the type of the object that is calling it.
-    Method overriding is determined at runtime and is dynamic.
+ 
+
+namespace csharpTest
+{            
+    public class Quetion7
+    {
+        public virtual void display()
+        {
+            Console.WriteLine("Baseclass Method is calling");
+        }
+    }
+    public class derivedclass : Quetion7
+    {
+        public override void display()
+        {
+            Console.WriteLine("derived class method is calling");
+        }
+    }
+    class mainclass
+    {
+        public static void Main(string[] args)
+        {
+            derivedclass dc = new derivedclass();
+            dc.display();
+            Console.ReadLine();
+        }
+
+    }
+}

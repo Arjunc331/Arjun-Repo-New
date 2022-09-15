@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "D:\\Arjun-Repo-New\\Exam-2\\CsharpTest\\CsharpTest\\CsharpTest.csproj": {}
+    "D:\\Arjun-Repo-New\\Assessment-3\\CsharpTest\\CsharpTest\\CsharpTest.csproj": {}
   },
   "projects": {
-    "D:\\Arjun-Repo-New\\Exam-2\\CsharpTest\\CsharpTest\\CsharpTest.csproj": {
+    "D:\\Arjun-Repo-New\\Assessment-3\\CsharpTest\\CsharpTest\\CsharpTest.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "D:\\Arjun-Repo-New\\Exam-2\\CsharpTest\\CsharpTest\\CsharpTest.csproj",
+        "projectUniqueName": "D:\\Arjun-Repo-New\\Assessment-3\\CsharpTest\\CsharpTest\\CsharpTest.csproj",
         "projectName": "CsharpTest",
-        "projectPath": "D:\\Arjun-Repo-New\\Exam-2\\CsharpTest\\CsharpTest\\CsharpTest.csproj",
+        "projectPath": "D:\\Arjun-Repo-New\\Assessment-3\\CsharpTest\\CsharpTest\\CsharpTest.csproj",
         "packagesPath": "C:\\Users\\Arjun Chandra\\.nuget\\packages\\",
-        "outputPath": "D:\\Arjun-Repo-New\\Exam-2\\CsharpTest\\CsharpTest\\obj\\",
+        "outputPath": "D:\\Arjun-Repo-New\\Assessment-3\\CsharpTest\\CsharpTest\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\Arjun Chandra\\AppData\\Roaming\\NuGet\\NuGet.Config",
