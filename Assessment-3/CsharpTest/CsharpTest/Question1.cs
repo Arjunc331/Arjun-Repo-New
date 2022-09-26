@@ -1,10 +1,10 @@
 ﻿
 
 
-Example Call by Value :
+//Example Call by Value :
 
-using System;
-namespace CallByValueExample
+//using System;
+namespace Question1
 {
     class Program
     {
@@ -22,9 +22,9 @@ namespace CallByValueExample
 }
 
 
-    Example Call by Reference :
+    //Example Call by Reference :
 
-using System;
+//using System;
 namespace CallByReferenceExample
 {
     class Program
