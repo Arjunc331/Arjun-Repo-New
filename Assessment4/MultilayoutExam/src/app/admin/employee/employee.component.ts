@@ -1,7 +1,7 @@
 import { Component, OnDestroy, OnInit } from '@angular/core';
 import { ActivatedRoute } from '@angular/router';
 import { Subscription } from 'rxjs';
-import { HttpService } from 'src/app/service/http.service';
+import { HttpService } from 'src/app/services/http.service';
 import { IEmployee } from './employee-model';
 
 @Component({
