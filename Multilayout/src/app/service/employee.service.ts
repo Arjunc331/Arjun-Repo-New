@@ -1,4 +1,4 @@
-import { HttpClient } from '@angular/common/http';
+import { HttpClient, HttpHeaders } from '@angular/common/http';
 import { Injectable } from '@angular/core';
 import { environment } from 'src/environments/environment';
 
@@ -12,6 +12,7 @@ export class EmployeeService {
   constructor(private http: HttpClient) { }
 
   getData(url: string) {
+    let token = localStorage.getItem("token");
     return this.http.get(`${this.ApiUrl}${url}`);
 
   }
