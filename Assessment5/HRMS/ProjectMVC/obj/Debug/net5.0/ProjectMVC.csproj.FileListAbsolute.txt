@@ -306,3 +306,4 @@ D:\Arjun-Repo-New-Snaddevelopers\Assessment5\HRMS\ProjectMVC\obj\Debug\net5.0\re
 D:\Arjun-Repo-New-Snaddevelopers\Assessment5\HRMS\ProjectMVC\obj\Debug\net5.0\ProjectMVC.pdb
 D:\Arjun-Repo-New-Snaddevelopers\Assessment5\HRMS\ProjectMVC\obj\Debug\net5.0\ProjectMVC.genruntimeconfig.cache
 D:\Arjun-Repo-New-Snaddevelopers\Assessment5\HRMS\ProjectMVC\obj\Debug\net5.0\ref\ProjectMVC.dll
+D:\Arjun-Repo-New-Snaddevelopers\Assessment5\HRMS\ProjectMVC\bin\Debug\net5.0\AutoMapper.dll
