@@ -1,0 +1,15 @@
+D:\Arjun-Repo-New-Snaddevelopers\HRMS.project\HRMSproject.Repository\bin\Debug\net5.0\HRMSproject.Repository.deps.json
+D:\Arjun-Repo-New-Snaddevelopers\HRMS.project\HRMSproject.Repository\bin\Debug\net5.0\HRMSproject.Repository.runtimeconfig.json
+D:\Arjun-Repo-New-Snaddevelopers\HRMS.project\HRMSproject.Repository\bin\Debug\net5.0\HRMSproject.Repository.runtimeconfig.dev.json
+D:\Arjun-Repo-New-Snaddevelopers\HRMS.project\HRMSproject.Repository\bin\Debug\net5.0\HRMSproject.Repository.dll
+D:\Arjun-Repo-New-Snaddevelopers\HRMS.project\HRMSproject.Repository\bin\Debug\net5.0\HRMSproject.Repository.pdb
+D:\Arjun-Repo-New-Snaddevelopers\HRMS.project\HRMSproject.Repository\obj\Debug\net5.0\HRMSproject.Repository.csproj.AssemblyReference.cache
+D:\Arjun-Repo-New-Snaddevelopers\HRMS.project\HRMSproject.Repository\obj\Debug\net5.0\HRMSproject.Repository.GeneratedMSBuildEditorConfig.editorconfig
+D:\Arjun-Repo-New-Snaddevelopers\HRMS.project\HRMSproject.Repository\obj\Debug\net5.0\HRMSproject.Repository.AssemblyInfoInputs.cache
+D:\Arjun-Repo-New-Snaddevelopers\HRMS.project\HRMSproject.Repository\obj\Debug\net5.0\HRMSproject.Repository.AssemblyInfo.cs
+D:\Arjun-Repo-New-Snaddevelopers\HRMS.project\HRMSproject.Repository\obj\Debug\net5.0\HRMSproject.Repository.csproj.CoreCompileInputs.cache
+D:\Arjun-Repo-New-Snaddevelopers\HRMS.project\HRMSproject.Repository\obj\Debug\net5.0\HRMSproject.Repository.dll
+D:\Arjun-Repo-New-Snaddevelopers\HRMS.project\HRMSproject.Repository\obj\Debug\net5.0\refint\HRMSproject.Repository.dll
+D:\Arjun-Repo-New-Snaddevelopers\HRMS.project\HRMSproject.Repository\obj\Debug\net5.0\HRMSproject.Repository.pdb
+D:\Arjun-Repo-New-Snaddevelopers\HRMS.project\HRMSproject.Repository\obj\Debug\net5.0\HRMSproject.Repository.genruntimeconfig.cache
+D:\Arjun-Repo-New-Snaddevelopers\HRMS.project\HRMSproject.Repository\obj\Debug\net5.0\ref\HRMSproject.Repository.dll

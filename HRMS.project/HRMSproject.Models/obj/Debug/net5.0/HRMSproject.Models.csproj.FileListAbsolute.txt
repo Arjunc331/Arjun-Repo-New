@@ -1,0 +1,12 @@
+D:\Arjun-Repo-New-Snaddevelopers\HRMS.project\HRMSproject.Models\bin\Debug\net5.0\HRMSproject.Models.deps.json
+D:\Arjun-Repo-New-Snaddevelopers\HRMS.project\HRMSproject.Models\bin\Debug\net5.0\HRMSproject.Models.dll
+D:\Arjun-Repo-New-Snaddevelopers\HRMS.project\HRMSproject.Models\bin\Debug\net5.0\HRMSproject.Models.pdb
+D:\Arjun-Repo-New-Snaddevelopers\HRMS.project\HRMSproject.Models\obj\Debug\net5.0\HRMSproject.Models.csproj.AssemblyReference.cache
+D:\Arjun-Repo-New-Snaddevelopers\HRMS.project\HRMSproject.Models\obj\Debug\net5.0\HRMSproject.Models.GeneratedMSBuildEditorConfig.editorconfig
+D:\Arjun-Repo-New-Snaddevelopers\HRMS.project\HRMSproject.Models\obj\Debug\net5.0\HRMSproject.Models.AssemblyInfoInputs.cache
+D:\Arjun-Repo-New-Snaddevelopers\HRMS.project\HRMSproject.Models\obj\Debug\net5.0\HRMSproject.Models.AssemblyInfo.cs
+D:\Arjun-Repo-New-Snaddevelopers\HRMS.project\HRMSproject.Models\obj\Debug\net5.0\HRMSproject.Models.csproj.CoreCompileInputs.cache
+D:\Arjun-Repo-New-Snaddevelopers\HRMS.project\HRMSproject.Models\obj\Debug\net5.0\HRMSproject.Models.dll
+D:\Arjun-Repo-New-Snaddevelopers\HRMS.project\HRMSproject.Models\obj\Debug\net5.0\refint\HRMSproject.Models.dll
+D:\Arjun-Repo-New-Snaddevelopers\HRMS.project\HRMSproject.Models\obj\Debug\net5.0\HRMSproject.Models.pdb
+D:\Arjun-Repo-New-Snaddevelopers\HRMS.project\HRMSproject.Models\obj\Debug\net5.0\ref\HRMSproject.Models.dll

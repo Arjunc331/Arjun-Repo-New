@@ -1,0 +1,17 @@
+D:\Arjun-Repo-New-Snaddevelopers\HRMS.project\HRMSproject.Business\bin\Debug\net5.0\HRMSproject.Business.deps.json
+D:\Arjun-Repo-New-Snaddevelopers\HRMS.project\HRMSproject.Business\bin\Debug\net5.0\HRMSproject.Business.dll
+D:\Arjun-Repo-New-Snaddevelopers\HRMS.project\HRMSproject.Business\bin\Debug\net5.0\HRMSproject.Business.pdb
+D:\Arjun-Repo-New-Snaddevelopers\HRMS.project\HRMSproject.Business\obj\Debug\net5.0\HRMSproject.Business.csproj.AssemblyReference.cache
+D:\Arjun-Repo-New-Snaddevelopers\HRMS.project\HRMSproject.Business\obj\Debug\net5.0\HRMSproject.Business.GeneratedMSBuildEditorConfig.editorconfig
+D:\Arjun-Repo-New-Snaddevelopers\HRMS.project\HRMSproject.Business\obj\Debug\net5.0\HRMSproject.Business.AssemblyInfoInputs.cache
+D:\Arjun-Repo-New-Snaddevelopers\HRMS.project\HRMSproject.Business\obj\Debug\net5.0\HRMSproject.Business.AssemblyInfo.cs
+D:\Arjun-Repo-New-Snaddevelopers\HRMS.project\HRMSproject.Business\obj\Debug\net5.0\HRMSproject.Business.csproj.CoreCompileInputs.cache
+D:\Arjun-Repo-New-Snaddevelopers\HRMS.project\HRMSproject.Business\obj\Debug\net5.0\HRMSproject.Business.dll
+D:\Arjun-Repo-New-Snaddevelopers\HRMS.project\HRMSproject.Business\obj\Debug\net5.0\refint\HRMSproject.Business.dll
+D:\Arjun-Repo-New-Snaddevelopers\HRMS.project\HRMSproject.Business\obj\Debug\net5.0\HRMSproject.Business.pdb
+D:\Arjun-Repo-New-Snaddevelopers\HRMS.project\HRMSproject.Business\obj\Debug\net5.0\ref\HRMSproject.Business.dll
+D:\Arjun-Repo-New-Snaddevelopers\HRMS.project\HRMSproject.Business\bin\Debug\net5.0\HRMSproject.Models.dll
+D:\Arjun-Repo-New-Snaddevelopers\HRMS.project\HRMSproject.Business\bin\Debug\net5.0\HRMSproject.Repository.dll
+D:\Arjun-Repo-New-Snaddevelopers\HRMS.project\HRMSproject.Business\bin\Debug\net5.0\HRMSproject.Models.pdb
+D:\Arjun-Repo-New-Snaddevelopers\HRMS.project\HRMSproject.Business\bin\Debug\net5.0\HRMSproject.Repository.pdb
+D:\Arjun-Repo-New-Snaddevelopers\HRMS.project\HRMSproject.Business\obj\Debug\net5.0\HRMSproject.Business.csproj.CopyComplete

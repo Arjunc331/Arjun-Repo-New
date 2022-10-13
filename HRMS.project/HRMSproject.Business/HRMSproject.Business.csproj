@@ -1,0 +1,12 @@
+<Project Sdk="Microsoft.NET.Sdk">
+
+  <PropertyGroup>
+    <TargetFramework>net5.0</TargetFramework>
+  </PropertyGroup>
+
+  <ItemGroup>
+    <ProjectReference Include="..\HRMSproject.Models\HRMSproject.Models.csproj" />
+    <ProjectReference Include="..\HRMSproject.Repository\HRMSproject.Repository.csproj" />
+  </ItemGroup>
+
+</Project>

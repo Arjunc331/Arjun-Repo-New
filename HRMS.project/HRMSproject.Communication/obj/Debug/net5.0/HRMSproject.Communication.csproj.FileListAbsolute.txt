@@ -1,0 +1,12 @@
+D:\Arjun-Repo-New-Snaddevelopers\HRMS.project\HRMSproject.Communication\bin\Debug\net5.0\HRMSproject.Communication.deps.json
+D:\Arjun-Repo-New-Snaddevelopers\HRMS.project\HRMSproject.Communication\bin\Debug\net5.0\HRMSproject.Communication.dll
+D:\Arjun-Repo-New-Snaddevelopers\HRMS.project\HRMSproject.Communication\bin\Debug\net5.0\HRMSproject.Communication.pdb
+D:\Arjun-Repo-New-Snaddevelopers\HRMS.project\HRMSproject.Communication\obj\Debug\net5.0\HRMSproject.Communication.csproj.AssemblyReference.cache
+D:\Arjun-Repo-New-Snaddevelopers\HRMS.project\HRMSproject.Communication\obj\Debug\net5.0\HRMSproject.Communication.GeneratedMSBuildEditorConfig.editorconfig
+D:\Arjun-Repo-New-Snaddevelopers\HRMS.project\HRMSproject.Communication\obj\Debug\net5.0\HRMSproject.Communication.AssemblyInfoInputs.cache
+D:\Arjun-Repo-New-Snaddevelopers\HRMS.project\HRMSproject.Communication\obj\Debug\net5.0\HRMSproject.Communication.AssemblyInfo.cs
+D:\Arjun-Repo-New-Snaddevelopers\HRMS.project\HRMSproject.Communication\obj\Debug\net5.0\HRMSproject.Communication.csproj.CoreCompileInputs.cache
+D:\Arjun-Repo-New-Snaddevelopers\HRMS.project\HRMSproject.Communication\obj\Debug\net5.0\HRMSproject.Communication.dll
+D:\Arjun-Repo-New-Snaddevelopers\HRMS.project\HRMSproject.Communication\obj\Debug\net5.0\refint\HRMSproject.Communication.dll
+D:\Arjun-Repo-New-Snaddevelopers\HRMS.project\HRMSproject.Communication\obj\Debug\net5.0\HRMSproject.Communication.pdb
+D:\Arjun-Repo-New-Snaddevelopers\HRMS.project\HRMSproject.Communication\obj\Debug\net5.0\ref\HRMSproject.Communication.dll
