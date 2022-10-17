@@ -82,4 +82,32 @@ namespace MVC.Controllers
             context.SaveChanges();
             return RedirectToAction("Index");
         }
-}}
+        public ActionResult Details(int id)
+        {
+            var emp = context.Employees.Where(x => x.EmpId == id).SingleOrDefault();
+            return View(emp);
+        }
+
+        [HttpGet]
+        public ActionResult Edit(int id)
+        {
+            var emp = context.Employees.Where(x => x.EmpId == id).SingleOrDefault();
+            return View(emp);
+        }
+        [HttpPost]
+        public ActionResult Edit(Employee emp)
+
+        {
+            context.Entry(emp).State = System.Data.Entity.EntityState.Modified;
+            context.SaveChanges();
+            return RedirectToAction("index");
+        }
+        public ActionResult Delete(int id)
+        {
+            var emp = context.Employees.Where(x => x.EmpId == id).SingleOrDefault();
+            context.Employees.Remove(emp);
+            context.SaveChanges();
+            return RedirectToAction("index");
+        }
+    }
+}
